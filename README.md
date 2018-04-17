@@ -1,6 +1,6 @@
-# ExtReact Boilerplate
+# ExtReact Demo
 
-A foundation for React apps built with [ExtReact](http://docs.sencha.com/extreact/latest/index.html) components.
+A React demo app built with [ExtReact](http://docs.sencha.com/extreact/latest/index.html) components.
 
 ## Quick Start
 
@@ -14,8 +14,8 @@ npm login --registry=http://npm.sencha.com --scope=@extjs
 
 Then, run the following to clone and build the project:
 
-    git clone https://github.com/sencha/extjs-reactor.git
-    cd extjs-reactor/packages/reactor-boilerplate
+    git clone https://github.com/haitlc/react-ui-extreact-demo.git
+    cd react-ui-extreact-demo
     npm install
     npm start
 
