@@ -15,7 +15,7 @@ import NavMenu from './NavMenu';
  */
 class Layout extends Component {
 
-    baseUrl = "/test/vin/react/extreact";
+    baseUrl = "/react-ui-extreact-demo";
 
     state = {
         showAppMenu: false
